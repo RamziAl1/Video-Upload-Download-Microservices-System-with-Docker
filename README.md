@@ -1,4 +1,4 @@
-# Video-upload-Streaming-microservices-system-with-docker
+# Video-Upload-Streaming-Microservices-System-with-Docker
 Microservices system for uploading and streaming videos, deployed using Docker containers
 
 Containerization assignment
