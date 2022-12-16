@@ -1,0 +1,6 @@
+com\containorization\upload\controller\LoginController.class
+com\containorization\upload\service\LoginService.class
+com\containorization\upload\service\UploadService$1.class
+com\containorization\upload\controller\UploadController.class
+com\containorization\upload\dao\VideoDataDAO.class
+com\containorization\upload\service\UploadService.class
